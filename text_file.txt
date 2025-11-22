@@ -1,0 +1,7 @@
+google | subhash@gamil.com | 12345 
+Apple | subhash@gamil.com | abcd 
+laptop | subhash@gamil.com | qwer 
+instagram | subhash@gamil.com | password 
+ | subhash@gamil.com |  
+ | subhash@gamil.com |  
+twitter | subhash@gamil.com | WW2&U8NdK9%yL8!#U 
